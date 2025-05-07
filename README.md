@@ -30,5 +30,5 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Xeyo-Developer&theme=dracula&column=7&margin-w=15" alt="Trophies" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Xeyo-Developer&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" alt="Trophies" height="150" />
 </div>
