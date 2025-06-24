@@ -1,6 +1,6 @@
 # Hi, I'm Xeyo 👨‍💻
 
-**Full-Stack JavaScript Developer** from Poland  
+**Full-Stack Developer** from Poland  
 ✨ Building Discord bots & modern web applications ✨  
 
 ![Profile views](https://komarev.com/ghpvc/?username=Xeyo-Developer&label=Profile%20views&color=0e75b6&style=flat)  
