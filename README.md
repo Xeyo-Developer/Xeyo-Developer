@@ -31,6 +31,6 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Xeyo-Developer&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" alt="Trophies" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Xeyo-Developer&theme=darkhub&no-frame=true&row=1&column=-1&margin-w=15&margin-h=15" alt="Trophies" height="150" />
   <img src="https://raw.githubusercontent.com/MaV124004/MaV124004/output/snake.svg" alt="Snake animation" />
 </div>
