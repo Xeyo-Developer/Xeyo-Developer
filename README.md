@@ -33,9 +33,6 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Xeyo-Developer&theme=darkhub" alt="GitHub Streak Stats">
-  </a>
   <img src="https://github-profile-trophy.vercel.app/?username=Xeyo-Developer&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="Trophies" height="150" />
   <img src="https://raw.githubusercontent.com/MaV124004/MaV124004/output/snake.svg" alt="Snake animation" />
 </div>
